@@ -1,0 +1,30 @@
+_repo: Snow-on-the-HeadlightA-Story-of-the-Great-Burlington-Strike_30447
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30447-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warman, Cy
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '7464'
+    url: http://www.gutenberg.org/2009/agents/7464
+description: ''
+gutenberg_issued: '2009-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30447'
+  lccn: '99003430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Burlington Strike, 1888 -- Fiction'
+- !lcsh 'Strikes and lockouts -- Fiction'
+title: 'Snow on the Headlight
+
+  A Story of the Great Burlington Strike'
+url: http://www.gutenberg.org/ebooks/30447
